@@ -3,7 +3,7 @@
 A responsive **Netflix Landing Page Clone** built using **HTML5 and CSS3**.  
 This project replicates the UI and layout of Netflix’s official homepage and is created for learning and practice purposes.
 
-🔗 **Live Demo:** https://reliable-kashata-eb4765.netlify.app/
+🔗 **Live Demo:** jade-gaufre-330e16.netlify.app
 
 ---
 
