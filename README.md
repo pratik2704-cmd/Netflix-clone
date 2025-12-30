@@ -39,6 +39,3 @@ The project demonstrates how real-world streaming platform UIs are structured an
 - **Netlify** – Hosting & deployment  
 
 ---
-
-## 📂 Project Structure
-
